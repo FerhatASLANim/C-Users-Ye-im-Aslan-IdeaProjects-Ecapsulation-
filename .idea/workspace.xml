@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd291030-d963-4ab0-af71-b6c625ba852c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ders13/Ders13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders13/src/exp01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders13/src/exp02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders13/src/exp03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders13/src/exp04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders13/src/exp05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/Ders15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/Calisan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/Müdür.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/OrtakOzellikler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/Personel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/Yonetici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/isci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders15/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/Ders19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/Bitki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/BitkiyeOzgu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/Canlı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/CanlıOrtak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/Insan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ders19/src/InsanaOzgu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/DovizCevirici.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/out/production/DovizCevirici/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/src/Dövizler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/src/MuzMaymun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/src/Tarih1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/src/TasKaatMakas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DovizCevirici/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ecapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/Kalıtım.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/src/AnaSinif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/src/KalitimSinif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/src/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalıtım/src/telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/Practice03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/Meraba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice03/src/soru06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/Practice04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/src/soru01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/src/soru02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/src/soru03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/src/soru05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice04/src/ters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/RandomSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/out/production/RandomSayi/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RandomSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/ders019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/src/BackRoung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders019/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/ders14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/KULLANİCİ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders14/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/ders18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders18/src/CalisanSinif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/ders21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ders21/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hesap/hesap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hesap/src/addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hesap/src/hesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/practice05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/src/Q03Kutuphane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/src/exp01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/src/exp02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice05/src/exp03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/practice07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/src/Manav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/src/soru02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice07/src/soru1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DERS12/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DERS12/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DERS12/src/exp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DERS12/src/exp01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Odev03/src/odev01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Odev03/src/odev01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ders11/src/exp08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ders11/src/exp08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ödev/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ödev/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ödev/ödev.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rQyB6LC0wlbuppDE7xjnF8Sj6D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ecapsulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd291030-d963-4ab0-af71-b6c625ba852c" name="Default Changelist" comment="" />
+      <created>1618922474616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618922474616</updated>
+      <workItem from="1618922475968" duration="315000" />
+      <workItem from="1618923039605" duration="1724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
